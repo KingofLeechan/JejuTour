@@ -1,0 +1,315 @@
+17:11:31 (lmgrd) -----------------------------------------------
+17:11:31 (lmgrd)   Please Note:
+17:11:31 (lmgrd) 
+17:11:31 (lmgrd)   This log is intended for debug purposes only.
+17:11:31 (lmgrd)   In order to capture accurate license
+17:11:31 (lmgrd)   usage data into an organized repository,
+17:11:31 (lmgrd)   please enable report logging. Use Flexera Software, Inc.'s
+17:11:31 (lmgrd)   software license administration  solution,
+17:11:31 (lmgrd)   FLEXnet Manager, to  readily gain visibility
+17:11:31 (lmgrd)   into license usage data and to create
+17:11:31 (lmgrd)   insightful reports on critical information like
+17:11:31 (lmgrd)   license availability and usage. FLEXnet Manager
+17:11:31 (lmgrd)   can be fully automated to run these reports on
+17:11:31 (lmgrd)   schedule and can be used to track license
+17:11:31 (lmgrd)   servers and usage across a heterogeneous
+17:11:31 (lmgrd)   network of servers including Windows NT, Linux
+17:11:31 (lmgrd)   and UNIX. Contact Flexera Software, Inc. at
+17:11:31 (lmgrd)   www.flexerasoftware.com for more details on how to
+17:11:31 (lmgrd)   obtain an evaluation copy of FLEXnet Manager
+17:11:31 (lmgrd)   for your enterprise.
+17:11:31 (lmgrd) 
+17:11:31 (lmgrd) -----------------------------------------------
+17:11:31 (lmgrd) 
+17:11:31 (lmgrd) 
+17:11:31 (lmgrd) pid 10388
+17:11:31 (lmgrd) Done rereading
+17:11:31 (lmgrd) FLEXnet Licensing (v11.9.1.0 build 89952 i86_n3) started on BOOK-NFF1K10L87 (IBM PC) (12/3/2023)
+17:11:31 (lmgrd) Copyright (c) 1988-2010 Flexera Software, Inc. All Rights Reserved.
+17:11:31 (lmgrd) US Patents 5,390,297 and 5,671,412.
+17:11:31 (lmgrd) World Wide Web:  http://www.flexerasoftware.com
+17:11:31 (lmgrd) License file(s): C:\Users\user\Desktop\16.6_OrCAD_lic\Cadence\LicenseManager\license.dat
+17:11:31 (lmgrd) lmgrd tcp-port 5280
+17:11:31 (lmgrd) Starting vendor daemons ... 
+17:11:32 (lmgrd) Started cdslmd (pid 11828)
+17:11:32 (cdslmd) FLEXnet Licensing version v11.9.1.0 build 89952 i86_n3
+17:11:32 (cdslmd) WARNING Set environment variable cdslmd_ENH_RECORDS=1 to enable ENH records usage logging enhancements
+17:11:32 (cdslmd) Using options file: ".exe"
+17:11:33 (cdslmd) Server started on BOOK-NFF1K10L87 for:	100		
+17:11:33 (cdslmd) 111		11400		12141		
+17:11:33 (cdslmd) 12500		14000		14010		
+17:11:33 (cdslmd) 14020		14040		14101		
+17:11:33 (cdslmd) 14111		14120		14130		
+17:11:33 (cdslmd) 14140		14410		200		
+17:11:33 (cdslmd) 20120		20121		20122		
+17:11:33 (cdslmd) 20123		20124		20127		
+17:11:33 (cdslmd) 20128		20220		20221		
+17:11:33 (cdslmd) 20222		20227		206		
+17:11:33 (cdslmd) 207		21060		21200		
+17:11:33 (cdslmd) 21400		21900		21920		
+17:11:33 (cdslmd) 22650		22800		22810		
+17:11:33 (cdslmd) 24015		24025		24100		
+17:11:33 (cdslmd) 24205		250		251		
+17:11:33 (cdslmd) 26000		274		276		
+17:11:33 (cdslmd) 279		283		300		
+17:11:33 (cdslmd) 305		312		314		
+17:11:33 (cdslmd) 316		318		32140		
+17:11:33 (cdslmd) 32150		32190		322		
+17:11:33 (cdslmd) 32500		32501		32502		
+17:11:33 (cdslmd) 32510		32550		32600		
+17:11:33 (cdslmd) 32610		32620		32630		
+17:11:33 (cdslmd) 32640		32760		33010		
+17:11:33 (cdslmd) 33301		336		34500		
+17:11:33 (cdslmd) 34510		365		370		
+17:11:33 (cdslmd) 371		37100		373		
+17:11:33 (cdslmd) 40020		40030		40040		
+17:11:33 (cdslmd) 40500		41000		50000		
+17:11:33 (cdslmd) 50010		501		50110		
+17:11:33 (cdslmd) 50200		51022		51023		
+17:11:33 (cdslmd) 51060		51070		51170		
+17:11:33 (cdslmd) 550		570		61300		
+17:11:33 (cdslmd) 61400		920		940		
+17:11:33 (cdslmd) 945		950		960		
+17:11:33 (cdslmd) 963		964		965		
+17:11:33 (cdslmd) 966		972		974		
+17:11:33 (cdslmd) 991		994		995		
+17:11:33 (cdslmd) ABIT		ALL_EBD		AMD_MACH	
+17:11:33 (cdslmd) AMS_environment ANALOG_WORKBENCH APD		
+17:11:33 (cdslmd) APR-HPPA	AWBAA		AWBAdvancedAnalysis 
+17:11:33 (cdslmd) AWBSimulator	AWB_BEHAVIOR	AWB_Batch	
+17:11:33 (cdslmd) AWB_DIST_SIM	AWB_MAGAZINE	AWB_MAGNETICS	
+17:11:33 (cdslmd) AWB_MIX		AWB_PPLOT	AWB_RESOLVE_OPT 
+17:11:33 (cdslmd) AWB_SIMULATOR	AWB_SMOKE	AWB_SPICEPLUS	
+17:11:33 (cdslmd) AWB_STATS	Advanced_Package_Designer Advanced_Pkg_Engineer_3D 
+17:11:33 (cdslmd) Affirma_3rdParty_Sim_Interface Affirma_AMS_distrib_processing Affirma_NC_Simulator 
+17:11:33 (cdslmd) Affirma_RF_IC_package_modeler Affirma_RF_SPW_model_link Affirma_accel_transistor_sim 
+17:11:33 (cdslmd) Affirma_advanced_analysis_env Affirma_equiv_checker_prep Affirma_equivalence_checker 
+17:11:33 (cdslmd) Affirma_model_checker Affirma_model_packager_export Affirma_sim_analysis_env 
+17:11:33 (cdslmd) Affirma_trans_logic_abstracter Allego_design_expert AllegroSLPS	
+17:11:33 (cdslmd) Allegro_CAD_Interface Allegro_Design_Editor_620 Allegro_Designer 
+17:11:33 (cdslmd) Allegro_Designer_Package_620 Allegro_Expert	Allegro_Librarian 
+17:11:33 (cdslmd) Allegro_PCB	Allegro_PCBSI_Backplane Allegro_PCBSI_Performance 
+17:11:33 (cdslmd) Allegro_PCBSI_SParams Allegro_PCBSI_SerialLink Allegro_PCB_Design_230 
+17:11:33 (cdslmd) Allegro_PCB_Design_620 Allegro_PCB_Design_GXL Allegro_PCB_Design_Planner 
+17:11:33 (cdslmd) Allegro_PCB_Editor_GXL Allegro_PCB_Global_Route_Env Allegro_PCB_Intercon_Feas 
+17:11:33 (cdslmd) Allegro_PCB_Intercon_Flow_Desn Allegro_PCB_Interface Allegro_PCB_Partitioning 
+17:11:33 (cdslmd) Allegro_PCB_RF	Allegro_PCB_Router_210 Allegro_PCB_Router_230 
+17:11:33 (cdslmd) Allegro_PCB_Router_610 Allegro_PCB_SI_230 Allegro_PCB_SI_620 
+17:11:33 (cdslmd) Allegro_PCB_SI_630 Allegro_PCB_SI_630_Suite Allegro_Package_620 
+17:11:33 (cdslmd) Allegro_Package_Designer_620 Allegro_Package_Designer_XL_II Allegro_Package_SI_620 
+17:11:33 (cdslmd) Allegro_Package_SI_620_Suite Allegro_Package_SI_L_II Allegro_Packager_Designer_620 
+17:11:33 (cdslmd) Allegro_Performance Allegro_Pkg_Designer_620 Allegro_Pkg_Designer_620_Suite 
+17:11:33 (cdslmd) Allegro_RF_Modules_option_630 Allegro_SIP_Designer_630 Allegro_SLPS	
+17:11:33 (cdslmd) Allegro_Symbol	Allegro_Viewer_Plus Allegro_design_expert 
+17:11:33 (cdslmd) Allegro_designer_suite Allegro_studio	Ambit_BuildGates 
+17:11:33 (cdslmd) Artist_Optimizer Artist_Statistics Assura_DRC	
+17:11:33 (cdslmd) Assura_DV_LVS_checker Assura_DV_design_rule_checker Assura_DV_parasitic_extractor 
+17:11:33 (cdslmd) Assura_LVS	Assura_MP	Assura_OPC	
+17:11:33 (cdslmd) Assura_RCX	Assura_SI	Assura_SI-TL	
+17:11:33 (cdslmd) Assura_SiMC	Assura_SiVL	Assura_UI	
+17:11:33 (cdslmd) Atmel_ATV	Attsim_option_ATS Base_Digital_Body_Lib 
+17:11:33 (cdslmd) Base_Verilog_Lib BoardQuest_Designer BoardQuest_Team 
+17:11:33 (cdslmd) BuildGates	CELL3		CELL3_ARO	
+17:11:33 (cdslmd) CELL3_CROSSTALK CELL3_CTS	CELL3_ECL	
+17:11:33 (cdslmd) CELL3_OPENDEV	CELL3_OPENEXE	CELL3_PA	
+17:11:33 (cdslmd) CELL3_PR	CELL3_QPLACE_TIMING CELL3_SCAN	
+17:11:33 (cdslmd) CELL3_TIMING	CELL3_WIDEWIRE	CHDL_DesignAccess 
+17:11:33 (cdslmd) CISOption	CP_Ele_Checks	CPtoolkit	
+17:11:33 (cdslmd) CWAVES		Cadence_3D_Design_Viewer Cadence_Chip_IO_Planner 
+17:11:33 (cdslmd) Cadence_chip_assembly_router Capture		CaptureCIS	
+17:11:33 (cdslmd) Capture_CIS_Studio CheckPlus	Checkplus_Expert 
+17:11:33 (cdslmd) Cierto_HW_design_sys_2000 Cierto_SPW_CDMA_Library Cierto_SPW_GSM_VE 
+17:11:33 (cdslmd) Cierto_SPW_IS136_VE Cierto_SPW_comm_lib_flt_pt Cierto_SPW_comm_library_fxp_pt 
+17:11:33 (cdslmd) Cierto_SPW_link_to_Ambit_BG Cierto_SPW_link_to_NC_sim Cierto_SPW_model_manager 
+17:11:33 (cdslmd) Cierto_SPW_multimedia_kit Cierto_SPW_pcscdma_VE Cierto_Wireless_LAN_Library 
+17:11:33 (cdslmd) Cierto_signal_proc_wrksys_2000 Clock_Tree_Generation Cobra_Simulator 
+17:11:33 (cdslmd) ComposerCheckPlus_AdvRules ComposerCheckPlus_Checker ComposerCheckPlus_RuleDev 
+17:11:33 (cdslmd) Composer_EDIF300_Connectivity Composer_EDIF300_Schematic Composer_Spectre_Sim_Solution 
+17:11:33 (cdslmd) ConcICe_Option	Concept-HDL	ConceptHDL	
+17:11:33 (cdslmd) Concept_HDL_expert Concept_HDL_rules_checker Concept_HDL_studio 
+17:11:33 (cdslmd) Corners_Analysis DICRETE_LIB	DISCRETE_LIB	
+17:11:33 (cdslmd) DPbase		DPbaseCell	DPbaseGarray	
+17:11:33 (cdslmd) DPcctIcCraft	DPcdsBE		DPcdsC3		
+17:11:33 (cdslmd) DPcdsCE		DPcdsGE		DPcdsPar	
+17:11:33 (cdslmd) DPcongest	DPdelayCalc	DPecoIpo	
+17:11:33 (cdslmd) DPextractRC	DPfasnet	DPgotc		
+17:11:33 (cdslmd) DPhyperPlaceCell DPhyperPlaceGarray DPparasitic	
+17:11:33 (cdslmd) DPpearlLocked	DPqplaceAB	DPqplaceGA	
+17:11:33 (cdslmd) DPqplaceLocked	DPrcExtract	DPsdfConvPR	
+17:11:33 (cdslmd) DPsynopsys	DPunivInterface DPwplaceLocked	
+17:11:33 (cdslmd) DRAC2CORE	DRAC2DRC	DRAC2LVS	
+17:11:33 (cdslmd) DRAC3CORE	DRAC3DRC	DRAC3LVS	
+17:11:33 (cdslmd) DRACACCESS	DRACDIST	DRACERC		
+17:11:33 (cdslmd) DRACLPE		DRACLVS		DRACPG_E	
+17:11:33 (cdslmd) DRACPLOT	DRACPRE		DRACSLAVE	
+17:11:33 (cdslmd) Datapath_Preview_Option Datapath_VHDL	Datapath_Verilog 
+17:11:33 (cdslmd) Device_Level_Placer Device_Level_Router Distributed_Dracula_Option 
+17:11:33 (cdslmd) EBD_edit	EBD_floorplan	EBD_power	
+17:11:33 (cdslmd) EDIF_Netlist_Interface EDIF_Schematic_Interface EMCdisplay	
+17:11:33 (cdslmd) EMControl	EMControl_Float EditBase_ALL	
+17:11:33 (cdslmd) EditFST_ALL	Envisia_DP_SI_design_planner Envisia_Datapath_option 
+17:11:33 (cdslmd) Envisia_GE_ultra_place_route Envisia_LowPower_option Envisia_PKS	
+17:11:33 (cdslmd) Envisia_SE_SI_place_route Envisia_SE_ultra_place_route Envisia_Utility 
+17:11:33 (cdslmd) Envisia_synthesis_with_PKS Extended_Digital_Body_Lib Extended_Digital_Lib 
+17:11:33 (cdslmd) Extended_Verilog_Lib FPGA_Flows	FPGA_Tools	
+17:11:33 (cdslmd) FUNCTION_LIB	Framework	GATEENSEMBLE	
+17:11:33 (cdslmd) GATEENSEMBLE_ARO GATEENSEMBLE_CROSSTALK GATEENSEMBLE_CTS 
+17:11:33 (cdslmd) GATEENSEMBLE_CTS_LE GATEENSEMBLE_CTS_UL GATEENSEMBLE_ECL 
+17:11:33 (cdslmd) GATEENSEMBLE_LOWEND GATEENSEMBLE_OPENDEV GATEENSEMBLE_OPENEXE 
+17:11:33 (cdslmd) GATEENSEMBLE_PA GATEENSEMBLE_PR_LE GATEENSEMBLE_PR_UL 
+17:11:33 (cdslmd) GATEENSEMBLE_QPLACE_TIMING GATEENSEMBLE_SCAN GATEENSEMBLE_TIMING 
+17:11:33 (cdslmd) GATEENSEMBLE_TIMING_LE GATEENSEMBLE_TIMING_UL GATEENSEMBLE_UNLIMITED 
+17:11:33 (cdslmd) GATEENSEMBLE_WIDEWIRE Gate_Ensemble_DSM HDL-DESKTOP	
+17:11:33 (cdslmd) HLDSbase	HLDSbaseC	HLDexportDPUX	
+17:11:33 (cdslmd) HLDimportDPUX	IDF_Bi_Directional_Interface IPlaceBase_ALL	
+17:11:33 (cdslmd) Intrica_powerplane_builder LAS_Cell_Optimization LDPbaseCell	
+17:11:33 (cdslmd) LDPbaseGarray	LDPclock	LDPhyperPlaceCell 
+17:11:33 (cdslmd) LDPhyperPlaceGarray LEAFPROG-SYS	LEAPFROG-BV	
+17:11:33 (cdslmd) LEAPFROG-C	LEAPFROG-CV	LEAPFROG-SLAVE	
+17:11:33 (cdslmd) LEAPFROG-SV	LEAPFROG-SYS	LEAPFROG-VC	
+17:11:33 (cdslmd) LID10		LID11		LINAR_LIB	
+17:11:33 (cdslmd) LINEAR-LIB	LINEAR_LIB	LSE		
+17:11:33 (cdslmd) Layout		LayoutEE	LayoutEngEd	
+17:11:33 (cdslmd) LayoutPlus	MAG_LIB		MIXAD_LIB	
+17:11:33 (cdslmd) MTI_option_Attsim Model_Check_Analysis NC_VHDL_Simulator 
+17:11:33 (cdslmd) NC_Verilog_Data_Prep_Compiler NC_Verilog_Simulator Nihongoconcept	
+17:11:33 (cdslmd) OASIS_Simulation_Interface OpenModeler	OpenModeler_SFI 
+17:11:33 (cdslmd) OpenModeler_SWIFT OpenSim		OpenWaves	
+17:11:33 (cdslmd) Optimizer	OrCAD_Capture_CIS_option OrCAD_EE_Designer_Plus 
+17:11:33 (cdslmd) OrCAD_PCB_Designer OrCAD_PCB_Designer_Basics OrCAD_PCB_Designer_PSpice 
+17:11:33 (cdslmd) OrCAD_PCB_Editor OrCAD_PCB_Editor_Basics OrCAD_PCB_Router 
+17:11:33 (cdslmd) OrCAD_Signal_Explorer OrCAD_Unison_EE OrCAD_Unison_PCB 
+17:11:33 (cdslmd) OrCAD_Unison_Ultra PCB_Design_studio PCB_design_expert 
+17:11:33 (cdslmd) PCB_designer	PCB_librarian_expert PCB_studio_variants 
+17:11:33 (cdslmd) PE_Librarian	PICDesigner	PIC_Utilities	
+17:11:33 (cdslmd) PLD		PPR-HPPA	PPRoute_ALL	
+17:11:33 (cdslmd) PSpice		PSpiceAA	PSpiceAAOptimizer 
+17:11:33 (cdslmd) PSpiceAAStudio	PSpiceAD	PSpiceOPTIOpt	
+17:11:33 (cdslmd) PSpiceOptimizer PSpicePerfOpt	PSpiceSLPSOpt	
+17:11:33 (cdslmd) PSpiceSmokeOpt	PSpiceStudio	PSpice_SLPS	
+17:11:33 (cdslmd) PWM_LIB		Pearl		Pearl_Cell	
+17:11:33 (cdslmd) PlaceBase_ALL	Placement_Based_Optimization Placement_Based_Synthesis 
+17:11:33 (cdslmd) PowerIntegrity	Prevail_Board_Designer Prevail_Correct_By_Design 
+17:11:33 (cdslmd) Prevail_Designer Preview_Synopsys_Interface QPlace		
+17:11:33 (cdslmd) Quickturn_Model_Manager RB_6SUPUC_ALL	RapidPART	
+17:11:33 (cdslmd) RouteADV_ALL	RouteBase	RouteBase_ALL	
+17:11:33 (cdslmd) RouteDFM_ALL	RouteFST_ALL	RouteHYB_ALL	
+17:11:33 (cdslmd) RouteMVIA_ALL	SDT_MODEL_MANAGER SPB_400_NG	
+17:11:33 (cdslmd) SPECCTRAQuest	SPECCTRAQuest_EE SPECCTRAQuest_EE_SI 
+17:11:33 (cdslmd) SPECCTRAQuest_Planner SPECCTRAQuest_SI_expert SPECCTRAQuest_signal_expert 
+17:11:33 (cdslmd) SPECCTRAQuest_signal_explorer SPECCTRA_256U	SPECCTRA_6U	
+17:11:33 (cdslmd) SPECCTRA_ADV	SPECCTRA_APD	SPECCTRA_DFM	
+17:11:33 (cdslmd) SPECCTRA_HP	SPECCTRA_PCB	SPECCTRA_QE	
+17:11:33 (cdslmd) SPECCTRA_Unison_PCB SPECCTRA_Unison_Ultra SPECCTRA_VT	
+17:11:33 (cdslmd) SPECCTRA_autoroute SPECCTRA_expert SPECCTRA_expert_system 
+17:11:33 (cdslmd) SPECCTRA_performance SPW_BDE		SPW_BER_Sim	
+17:11:33 (cdslmd) SPW_BVHDL_CDMA_LIB SPW_BVHDL_COMM_FXP SPW_CGS_ANY	
+17:11:33 (cdslmd) SPW_CGS_C30	SPW_CGS_C40	SPW_CGS_DSP32C	
+17:11:33 (cdslmd) SPW_CGS_M96002	SPW_CGS_PKB	SPW_CGS_STANDARD_C 
+17:11:33 (cdslmd) SPW_COSIM_LEAPFROG SPW_COSIM_VERILOG_XL SPW_COSIM_VSS	
+17:11:33 (cdslmd) SPW_DATA_MANAGEMENT SPW_ENV_MAT	SPW_FDS		
+17:11:33 (cdslmd) SPW_FMG		SPW_FSM		SPW_HDS_VHDL_LINK 
+17:11:33 (cdslmd) SPW_HLS		SPW_LIB_CDMA_LIB SPW_LIB_COMM_FXP 
+17:11:33 (cdslmd) SPW_LIB_COMM_LIB SPW_LIB_DSP1600 SPW_LIB_DSP563S 
+17:11:33 (cdslmd) SPW_LIB_DSP566S SPW_LIB_DSP568S SPW_LIB_DSPGROUP 
+17:11:33 (cdslmd) SPW_LIB_GSM_LIB SPW_LIB_HDS_ARC SPW_LIB_HDS_ISL 
+17:11:33 (cdslmd) SPW_LIB_HDS_LIB SPW_LIB_HDS_MAIN SPW_LIB_HDS_MICRO 
+17:11:33 (cdslmd) SPW_LIB_IS136LIB SPW_LIB_IS95LIB SPW_LIB_ISL	
+17:11:33 (cdslmd) SPW_LIB_M5630X	SPW_LIB_MATLAB	SPW_LIB_MDK	
+17:11:33 (cdslmd) SPW_LIB_RADAR	SPW_LIB_RF_LIB	SPW_LIB_SGSTHOMSON 
+17:11:33 (cdslmd) SPW_LIB_TIC54X	SPW_LIB_TIC5X	SPW_LIB_VFL	
+17:11:33 (cdslmd) SPW_LINK_VERILOG SPW_LINK_VHDL	SPW_LINK_VHDL_BEH 
+17:11:33 (cdslmd) SPW_LSF_Link	SPW_MODEL_MANAGER SPW_MPX		
+17:11:33 (cdslmd) SPW_SIGCALC	SPW_SIM		SPW_SIM_UI	
+17:11:33 (cdslmd) SPW_Smart_Antenna_Library SQ_Digital_Logic_SI_Lib SQ_FPGA_SI_Lib	
+17:11:33 (cdslmd) SQ_Memory_SI_Lib SQ_Microprocessor_SI_Lib SQ_ModelIntegrity 
+17:11:33 (cdslmd) SWIFT		Schematic_Generator SiP_Digital_Architect_GXL 
+17:11:33 (cdslmd) SiP_Digital_Architect_GXL_II SiP_Digital_Architect_XL SiP_Digital_Layout_GXL 
+17:11:33 (cdslmd) SiP_Digital_SI_XL SiP_Digital_SI_XL_II SiP_RF_Architect 
+17:11:33 (cdslmd) SiP_RF_Architect_XL SiP_RF_Layout_GXL SiP_RF_Layout_GXL_II 
+17:11:33 (cdslmd) SigNoise	SigNoiseCS	SigNoiseEngineer 
+17:11:33 (cdslmd) SigNoiseExpert	SigNoiseStdDigLib SigNoise_Float	
+17:11:33 (cdslmd) SiliconQuest	Silicon_Ensemble Silicon_Ensemble_CTS 
+17:11:33 (cdslmd) Silicon_Ensemble_DSM Silicon_Ensemble_DSM_Crosstalk Silicon_Ensemble_OpenDev 
+17:11:33 (cdslmd) Silicon_Ensemble_OpenExe Silicon_Synthesis_QPBS SimVision	
+17:11:33 (cdslmd) SpectreBasic	SpectreRF	Spectre_BTAHVMOS_Models 
+17:11:33 (cdslmd) Spectre_BTASOI_Models Spectre_NorTel_Models Spectre_ST_Models 
+17:11:33 (cdslmd) Substrate_Coupling_Analysis Synlink_Interface TOPOLOGY_EDITOR 
+17:11:33 (cdslmd) Trans_level_option_Attsim UET		UNISON_SPECCTRA_6U 
+17:11:33 (cdslmd) Unison_SPECCTRA_4U Universal_Smartpath VB_6SUPUC_ALL	
+17:11:33 (cdslmd) VCC_Editors	VCC_SW_Estimator VCC_Simulators	
+17:11:33 (cdslmd) VCC_links_to_implementation VERILOG-SLAVE	VERILOG-XL	
+17:11:33 (cdslmd) VERITIME	VERLOG-SLAVE	VHDLLink	
+17:11:33 (cdslmd) VITAL-XL	VXL-ALPHA	VXL-LMC-HW-IF	
+17:11:33 (cdslmd) VXL-SWITCH-RC	VXL-TURBO	VXL-VCW		
+17:11:33 (cdslmd) VXL-VET		VXL-VLS		VXL-VRA		
+17:11:33 (cdslmd) Vampire_HDRC	Vampire_HLVS	Vampire_MP	
+17:11:33 (cdslmd) Vampire_RCX	Vampire_UI	Verif_Ckpit_Analysis_Env 
+17:11:33 (cdslmd) Verif_Ckpit_Runtime_Env ViewBase	ViewBase_ALL	
+17:11:33 (cdslmd) Virtuoso_Core_Characterizer Virtuoso_Core_Optimizer Virtuoso_Schem_Option 
+17:11:33 (cdslmd) Virtuoso_SiI	Virtuoso_Turbo	Virtuoso_XL	
+17:11:33 (cdslmd) Virtuoso_custom_placer Virtuoso_custom_router XBLOX-HPPA	
+17:11:33 (cdslmd) XDE-HPPA	_21900		a2dxf		
+17:11:33 (cdslmd) actomd		adv_package_designer adv_package_designer_expert 
+17:11:33 (cdslmd) adv_package_engineer_expert allegro_dfa	allegro_dfa_att 
+17:11:33 (cdslmd) allegro_non_partner allegroprance	apd1		
+17:11:33 (cdslmd) archiver	arouter		caeviews	
+17:11:33 (cdslmd) cals_out	cbds_in		cdxe_in		
+17:11:33 (cdslmd) comp		concept		conceptXPC	
+17:11:33 (cdslmd) coverscan-analysis coverscan-recorder cpe		
+17:11:33 (cdslmd) cpte		crefer		cvtomd		
+17:11:33 (cdslmd) debug		dfsverifault	dracula_in	
+17:11:33 (cdslmd) dxf2a		e2v		eCapture	
+17:11:33 (cdslmd) edif-HPPA	edif2ged	expgen		
+17:11:33 (cdslmd) fcengine	fcheck		fethman		
+17:11:33 (cdslmd) fetsetup	gbom		ged2edif	
+17:11:33 (cdslmd) gilbert		glib		gloss		
+17:11:33 (cdslmd) gphysdly	gscald		gspares		
+17:11:33 (cdslmd) hp3070		hyperExtract	hyperRules	
+17:11:33 (cdslmd) iges_electrical intrgloss	intrroute	
+17:11:33 (cdslmd) intrsignoise	ipc_in		ipc_out		
+17:11:33 (cdslmd) libcompile	lwb		mdin		
+17:11:33 (cdslmd) mdout		mdtoac		mdtocv		
+17:11:33 (cdslmd) multiwire	odan		packager	
+17:11:33 (cdslmd) partner		pcb_cursor	pcb_editor	
+17:11:33 (cdslmd) pcb_engineer	pcb_interactive pcb_prep	
+17:11:33 (cdslmd) pcb_review	pcomp		pillar.abstract 
+17:11:33 (cdslmd) pillar.areaPdp	pillar.areaPlanner pillar.cdsIn	
+17:11:33 (cdslmd) pillar.cdsOut	pillar.cellPdp	pillar.cellPlanner 
+17:11:33 (cdslmd) pillar.db	pillar.dbdev	pillar.dbperl	
+17:11:33 (cdslmd) pillar.defIn	pillar.defOut	pillar.dpdev	
+17:11:33 (cdslmd) pillar.dpuxIn	pillar.dpuxOut	pillar.edifIn	
+17:11:33 (cdslmd) pillar.edifOut	pillar.gatePdp	pillar.gatePlanner 
+17:11:33 (cdslmd) pillar.gdsIn	pillar.gdsOut	pillar.ge	
+17:11:33 (cdslmd) pillar.gui	pillar.ldexpand pillar.lefIn	
+17:11:33 (cdslmd) pillar.lefOut	pillar.pdp	pillar.verIn	
+17:11:33 (cdslmd) pillar.verOut	pillar.vhdlIn	pillar.vhdlOut	
+17:11:33 (cdslmd) pillar.vre	pillar.xl	pillar.xlcm	
+17:11:33 (cdslmd) pillar.xldev	placement	plotVersa	
+17:11:33 (cdslmd) ptc_in		ptc_out		quanticout	
+17:11:33 (cdslmd) rapidsim	realchiplm	redifnet	
+17:11:33 (cdslmd) rt		sdrc_in		sdrc_out	
+17:11:33 (cdslmd) shapefill	sigxp		skillDev	
+17:11:33 (cdslmd) sqpkg		stream_in	stream_out	
+17:11:33 (cdslmd) swap		sx		synSmartIF	
+17:11:33 (cdslmd) synSmartLib	synTiOpt	tsTSynVHDL	
+17:11:33 (cdslmd) tsTSynVLOG	tsTestGen	tsTestIntf	
+17:11:33 (cdslmd) tscr.ex		tune		tw01		
+17:11:33 (cdslmd) tw02		v2e		verfault	
+17:11:33 (cdslmd) verifault	vgen		viable		
+17:11:33 (cdslmd) visula_in	vloglink	wedifsch	
+17:11:33 (cdslmd) xilCds		xilComposerFE	xilConceptFE	
+17:11:33 (cdslmd) xilEdif		OrCAD_FPGA_System_Planner Allegro_FPGA_System_Planner_L 
+17:11:33 (cdslmd) Allegro_FPGA_System_Planner_XL Allegro_FPGA_System_Plan_GXL Allegro_FPGA_System_2FPGA 
+17:11:33 (cdslmd) Allegro_Design_Publisher PCB_SI_MultiGigabit Allegro_PCB_HighSpeed_Option 
+17:11:33 (cdslmd) Allegro_PCB_PDN_Analysis Allegro_PCB_Mini_Option 
+17:11:33 (cdslmd) 
+17:11:33 (cdslmd) All FEATURE lines for cdslmd behave like INCREMENT lines
+17:11:33 (cdslmd) 
+17:11:33 (cdslmd) EXTERNAL FILTERS are OFF
+17:11:33 (cdslmd) CANNOT OPEN options file ".exe"
+17:11:33 (lmgrd) cdslmd using TCP-port 49690
+18:57:27 (lmgrd) cdslmd exited with status 58 ()
+18:57:27 (lmgrd) Since this is an unknown status, license server 
+18:57:27 (lmgrd) manager (lmgrd) will attempt to re-start the vendor daemon.
+18:57:27 (lmgrd) EXITING DUE TO SIGNAL 1

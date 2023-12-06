@@ -1,0 +1,1 @@
+pubkey -d cdslmd -y
